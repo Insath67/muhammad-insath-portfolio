@@ -54,8 +54,8 @@ const projects: Project[] = [
       "AI Doctor chat and report comparison",
       "Email verification and secure authentication",
     ],
-    githubUrl: "https://lnkd.in/gJWxiHTY",
-    liveUrl: "https://lnkd.in/gnxi2uGV",
+    githubUrl: "https://github.com/Insath67/medinsight-ai",
+    liveUrl: "https://medinsight-ai-zeta.vercel.app",
     featured: true,
     status: "Live",
     gradient:
